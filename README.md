@@ -39,7 +39,7 @@ Allocate Host Memory
 
 ## PROGRAM:
 
-```C
+```cuda
 %%cuda
 #include <stdio.h>
 #include <cuda_runtime.h>
